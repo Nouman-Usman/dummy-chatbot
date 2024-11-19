@@ -56,7 +56,7 @@ export function ETFHeatmap({}) {
             rel="noopener nofollow"
             target="_blank"
           >
-            <span className="">Track all markets on TradingView</span>
+            {/* <span className="">Track all markets on TradingView</span> */}
           </a>
         </div>
       </div>
